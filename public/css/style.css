@@ -13,19 +13,19 @@ form {
     width: 100%; 
 }
 form input { 
-    border: 0.5px solid #2C3335; 
-    border-radius: 2px;
+    border: 0.5px solid #45CE30; 
+    border-radius: 5px;
     padding: 10px; 
     width: 90%; 
     margin-right: 0.5%; 
 }
 form button { 
     width: 9%; 
-    background: #2C3335; 
+    background: #FAD02E; 
     border: none; 
     padding: 10px;
-    border-radius: 2px;
-    color: #eee; 
+    border-radius: 5px;
+    color: #2C3335; 
 }
 #messages { list-style-type: none; margin: 0; padding: 0; }
 #messages li { padding: 5px 10px; }
