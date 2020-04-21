@@ -15,7 +15,7 @@ body {
     border-radius: 5px;
   }
 .header .appname {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'poppins';
     font-style: normal;
     text-align: center;
     color: #FFFFFF;
@@ -23,6 +23,21 @@ body {
     font-weight: bold;
 }
 
+/* Chat  */
+
+
+.chat-messages {
+	padding: 30px;
+	max-height: 500px;
+	overflow-y: scroll;
+}
+
+.chat-messages .message {
+	padding: 10px;
+	margin-bottom: 15px;
+	background-color: #eeebe3;
+	border-radius: 5px;
+}
 
 
 
