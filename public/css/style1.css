@@ -8,6 +8,15 @@ body {
     
 }
 
+.navbar-brand{
+    font-family: 'poppins';
+    font-style: normal;
+    text-align: center;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+
 .header {
     overflow: hidden;
     background-color: #BB2CD9;

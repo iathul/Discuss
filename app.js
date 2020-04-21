@@ -4,6 +4,7 @@ const http     = require('http')
 const socketio = require('socket.io')
 const server   = http.createServer(app);
 const io       = socketio(server)
+
 app.use(express.static('public'));
 
 app.get('/',(req,res)=>{
