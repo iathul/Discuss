@@ -9,7 +9,7 @@
   "author": "Athul Joy",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.19.2",
     "moment": "^2.29.4",
     "socket.io": "^2.4.0"
   },
